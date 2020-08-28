@@ -5,4 +5,4 @@
 ## How to install ?
 Download the theme file and move it into your [BetterDiscord](https://betterdiscord.net) themes folder:
 
->[Nasa.theme.css](https://github.com/UltraLionfr/My-BetterDiscord-Theme/releases/download/1.0/nasa.theme.css)
+>[Nasa.theme.css](https://github.com/UltraLionfr/My-BetterDiscord-Collection-Theme/releases/download/1.0/nasa.theme.css)
