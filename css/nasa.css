@@ -1,0 +1,179 @@
+/*discord logo*/
+#app-mount .listItemWrapper-3X98Pc .childWrapper-anI2G9 {background: url("https://i.imgur.com/ucqxw68.png") center/cover no-repeat;}
+.homeIcon-tEMBK1 {display: none;}
+@keyframes rgb {0% {filter: hue-rotate(0deg);}100% {filter: hue-rotate(360deg);}}
+#bd-pub-button {background-color: #f04747;color: white;}
+/*end discord logo*/
+/*background*/
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {background-image: url("https://i.imgur.com/b7XZsIU.jpg");background-size: cover;background-position: center;}
+.theme-dark {--background-primary: transparent;--background-secondary: transparent;--background-secondary-alt: transparent;--background-tertiary: transparent;}
+/*end background*/
+/*Scrolle bar*/
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track-piece {background-color: transparent;border-color: transparent;}
+.scrollableContainer-2NUZem {overflow-x: hidden;overflow-y: scroll;background-color: #000 var(--channeltextarea-background);max-height: 50vh;border-radius: 8px;scrollbar-width: none;}
+/*End scrolle bar*/
+/*Start blur*/
+/* Blur account email */
+.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-2GY4I1 {filter: blur(5px);transition: 200ms cubic-bezier(.2, .11, 0, 1);}
+/* Show account email onhover */
+.userInfoViewing-16kqK3 .flexChild-faoVW3 > div:nth-child(2) .viewBody-2Qz-jg.selectable-2GY4I1:hover {filter: none;transition: 50ms cubic-bezier(.2, .11, 0, 1);}
+/*End blur*/
+.avatar-17mtNa foreignObject {mask: none;}
+.avatar-17mtNa .avatar-VxgULZ {border-radius: 7px;}
+.iconWrapper-2OrFZ1:hover {transition: all .3s ease-in-out;transform: scale(1.2);}
+.typeWindows-1za-n7 {background-image: url("https://i.imgur.com/b7XZsIU.jpg");margin-top: 0px;padding: 3px; opacity: 0.5;}
+.wordmark-2iDDfm > svg > path{display: none !important;}
+.wordmark-2iDDfm::before {font-family: 'Orbitron', sans-serif;;content:'DISCORD | NASA by UltraLion';font-size: 16px;Font-Weight: 600;position:fixed;color: #f04747;}
+.theme-dark .applicationStore-1pNvnv {background-color: transparent;}
+.theme-dark .container-1D34oG  {background-color: transparent;}
+.theme-dark .nowPlayingColumn-2sl4cE  {background-color: transparent;}
+.theme-dark .popout-103y-5  {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .recentMentionsPopout-3rCiI6  {background-image: url("https://i.imgur.com/b7XZsIU.jpg");border: none;}
+/*You're viewing older messages*/
+.theme-dark .barButtonMain-1giYuj{font-family: 'Orbitron', sans-serif;;color: rgb(255, 255, 255);}
+/*End you're viewing older messages*/
+/*Status*/
+/* Spotify Profile Header */
+.headerSpotify-zpWxgT{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif")!important;}
+.topSectionSpotify-1lI0-P {background:rgba(20, 202, 154, 0.404)!important;}
+/*End Status*/
+/*Profil*/
+.theme-light [class*='topSection']:not(.topSectionNormal-2-vo2m) .date-YN6TCS, .theme-dark [class*='topSection'] .date-YN6TCS {color: white;}
+.theme-dark .headerNormal-T_seeN  {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .body-3iLsc4  {background-image: url("https://i.imgur.com/gJsbHPi.jpg");}
+.theme-dark .footer-1fjuF6  {background-image: url("https://i.imgur.com/gJsbHPi.jpg");}
+.theme-dark .inner-1ilYF7  {background-image: url("https://i.imgur.com/b7XZsIU.jpg");}
+.theme-dark .BE-badge, .profileBadge-2BqF-Z {background-repeat: no-repeat;filter:drop-shadow(0 0 2px white)}
+.theme-dark .lookFilled-1Gx00P.colorGreen-29iAKY {background-color: transparent;}
+.theme-dark .lookFilled-1Gx00P.colorGreen-29iAKY:active {background-color: transparent;}
+.theme-dark .lookFilled-1Gx00P.colorGreen-29iAKY:hover {background-color: transparent;}
+.username-3gJmXY {font-family: 'Orbitron', sans-serif;;font-size: 18px;font-weight: 600;color: #fff;}
+.discriminator-xUhQkU {font-family: 'Orbitron', sans-serif;;font-size: 14px;color: #fff;opacity: .6;}
+.connectedAccountIcon-3P3V6F {filter:drop-shadow(0 0 2px white)}
+.connectedAccountName-f8AEe2 {font-family: 'Orbitron', sans-serif;;}
+.lookInverted-2D7oAl.colorGreen-29iAKY {color: #fff;background-color: transparent;}
+.lookInverted-2D7oAl.colorGreen-29iAKY:active {color: #fff;background-color: transparent;}
+.lookInverted-2D7oAl.colorGreen-29iAKY:hover {color: #fff;background-color: transparent;}
+/*End profil*/
+/*Create or join server*/
+.theme-light .action-1lSjCi {border-color: #f04747;}
+.theme-dark .header-3ZP1MY  {font-family: 'Orbitron', sans-serif;;color: rgb(255, 255, 255);}
+.theme-dark .title-2Dc-Cb  {font-family: 'Orbitron', sans-serif;;color: #7289da;}
+.theme-dark .description-QF3836  {font-family: 'Orbitron', sans-serif;;color: #747f8d;}
+.theme-dark .cancelButton-RGXhAE  {font-family: 'Orbitron', sans-serif;;color: rgb(255, 255, 255);}
+.theme-dark .contents-18-Yxp {font-family: 'Orbitron', sans-serif;;color: white;}
+.theme-dark .size-30cdTn {background-image: url("https://i.imgur.com/b7XZsIU.jpg");border: none;}
+.theme-dark .footer-2gL1pp {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .content-1LAB8Z {background-image: url("https://i.imgur.com/b7XZsIU.jpg");}
+.theme-dark .action-1lSjCi {background-color: transparent;}
+.theme-dark .colorStandard-2KCXvj {color: rgb(255, 255, 255);}
+.wrapper-2ZbzR9.theme-light {background-image: url("https://wallpaperset.com/w/full/8/f/e/36465.jpg");}
+.bda-dark .root-1gCeng .input-1mgnkM {color: #e3e5e8;border-bottom-color: white;}
+.helpText-h3r3wC {font-size: 15px;line-height: 13px;margin: 15px 0;color: white;}
+.avatarUploader-3XDtmn .sizeInfo-SKMPPw {display: block;font-size: 15px;color: #ffffff;}
+.theme-dark .input-UJ9Tr3 {color: #e3e5e8;border-bottom-color: white;}
+/*End Create or join server*/
+/*pageWrapper*/
+.theme-dark .pageWrapper-1PgVDX {background-color: transparent;}
+/*End pageWrapper*/
+/*Emoji*/
+.theme-dark .contentWrapper-SvZHNd {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .animatorLeft-1EQxU0{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+/*End Emoji*/
+/*OU désire tu allée ?*/
+.theme-dark .input-2VB9rf {background-color: transparent;}
+.theme-dark .colorStandard-2KCXvj{font-size: 15px;}
+/*Fin OU désire tu allée ?*/
+/*Settings*/
+.theme-dark .userSettingsSecurityImage-21pI_Q{display: none;}
+.theme-dark .container-1sFeqf{color: red;}
+.theme-dark .verticalFit-waKLYN {background-color: transparent;}
+.theme-dark .bottomDivider-1K9Gao{background-color: transparent;}
+/*End Settings*/
+/*Menu server settings*/
+.theme-dark .menu-3sdvDG{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .modal-1k91nT{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .perksModal-fSYqOq{background-color: transparent;}
+.theme-dark .lookOutlined-3sRXeN.colorPrimary-3b3xI6 {color: #fff; border-color: #f04747;
+}
+.theme-dark .header-1TKi98{background-color: transparent;}
+/*End Menu server settings*/
+/*Block code*/
+.theme-dark .scrollbarGhostHairline-1mSOM1{background-image: url("https://cdn.wallpapersafari.com/41/64/kaDfp4.jpg");opacity: 0.8;}
+/*End Block code*/
+/*Upload file*/
+.theme-dark .uploadModal-2ifh8j{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .footer-3mqk7D{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+/*End Upload file*/
+.theme-dark .messagesPopout-24nkyi{background-image: url("https://i.imgur.com/b7XZsIU.jpg");}
+.theme-dark .footer-1kmXd4{background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+/*clickable button infinite*/
+@keyframes wiggle {
+    0% {-webkit-transform: rotate(5deg);}
+    25% {-webkit-transform: rotate(-5deg);}
+    50% {-webkit-transform: rotate(5deg);}
+    75% {-webkit-transform: rotate(-5deg);}
+    100% {-webkit-transform: rotate(5deg);}
+  }
+.clickable-3rdHwn:hover .icon-22AiRD {animation: wiggle .8s infinite;}
+/*End clickable button infinite*/
+.name-IbjUBS {color: #f04747}
+.winButtonMinMax-PBQ2gm {color: #f04747;}
+.winButton-iRh8-Z {color: #f04747;}
+/*Scrollbar*/
+.auto-Ge5KZx::-webkit-scrollbar-track {background-color: transparent;}
+.auto-Ge5KZx::-webkit-scrollbar-thumb {background-color: #D7C1C1;}
+/*End Scrollbar*/
+.jumpToPresentBar-G1R9s6 {background-color: #1D2E4B;}
+.wrapper-2qzCYF.minimum-28Z35l {height: 240px;background-color: transparent;}
+.theme-dark .root-1gCeng {background-color: transparent;}
+.header-2-Imhb {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.header-ykumBX {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {background-color: transparent;backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);}
+.theme-dark .inset-3sAvek {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.headerIcon-10Jegm, .multipleIconWrapper-DfGWrz {filter:drop-shadow(0 0 2px white)}
+.topSectionPlaying-1J5E4n {background-color: transparent;}
+.name-uJV0GL {font-family: 'Orbitron', sans-serif;;color: #fff}
+.da-activityText {font-family: 'Orbitron', sans-serif;;color: gray}
+.theme-dark .card-FDVird:before {background-color: transparent;border-color: transparent;}
+.theme-dark .bar-2Qqk5Z {background: #f04747;}
+.theme-dark .markValue-2DwdXI {color: #fff;}
+.barFill-23-gu- {background: #1417C1;height: 100%;}
+.theme-dark .markDash-3hAolZ {background: #fff;}
+.theme-dark .closeButton-1tv5uR {border-color: #f04747;}
+.lookFilled-1Gx00P.colorGreen-29iAKY {backdrop-filter: blur(15px);font-family: 'Orbitron', sans-serif;;color: #fff;background-color: transparent;border: 1px solid #f04747 !important;}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {backdrop-filter: blur(15px);font-family: 'Orbitron', sans-serif;;color: #fff;background-color: transparent;border: 1px solid #f04747 !important;}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {font-family: 'Orbitron', sans-serif;;backdrop-filter: blur(15px);color: #fff;background-color: transparent;border: 1px solid #f04747 !important;}
+.lookFilled-1Gx00P.colorBrand-3pXr91:active {backdrop-filter: blur(15px);font-family: 'Orbitron', sans-serif;;color: white;background-color: transparent;border: 1px solid #f04747 !important;}
+/*switch & button*/
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, 
+.itemToggle-S7XGOQ .checkbox-3EVISJ, 
+.themeDefault-24hCdX.valueChecked-m-4IJZ { background-color: #1417C1 !important;}
+.switch-3wwwcV  { background-color: #f04747 !important;}
+.lookInverted-2D7oAl.colorBrand-3pXr91 {background-color: transparent;}
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover {background-color: transparent;}
+/*Search option*/
+.searchBar-3dMhjb, .iconContainer-O4O2CN {transition: 300ms;}
+.search-2oPWTC:not(.open-6_Y_aH) > .searchBar-3dMhjb {width: 24px;height: 24px;background: transparent;cursor: pointer;}
+.search-2oPWTC:not(.open-6_Y_aH) > .searchBar-3dMhjb:hover .icon-3cZ1F_ {color: var(--interactive-hover)}
+.search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN {width: 24px; height: 24px;}
+.search-2oPWTC:not(.open-6_Y_aH) .icon-3cZ1F_ {color: var(--interactive-normal); cursor: pointer;}
+/*Nitro*/
+.theme-dark .tierHeaderLocked-1a2opw {background-color: transparent; color: #b9bbbe;}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover {color: #f6f6f7; background-color: transparent; border-color: #f04747;}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {color: white;background-color: transparent;}
+.theme-dark .tierBody-x9kBBp {background-color: transparent; color: #b9bbbe;}
+.colorPrimary-3hws2f {color: white;}
+/*End Nitro*/
+.emptyChannelIcon-cc932w { background-color: transparent;}
+.unread-1xRYoj {background-color: #f04747;}
+.interactive {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.interactive:hover {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+
+.bd-modal-wrapper .bd-modal-body {background-color: transparent;color: #fff;}
+.bd-modal-wrapper .header {background-color: transparent;color: #fff;}
+.theme-dark .autocomplete-1vrmpx {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.iconBackgroundTierTwo-3bCmdc {color: #ff73fa;}
+.disableColor-MwOAZf, .iconBackgroundTierNone-3MPhMJ, .iconBackgroundTierOne-2LhaMB, .iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {color: #ff73fa;}
+.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {color: white;}
+.theme-dark .header-1TKi98 {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
