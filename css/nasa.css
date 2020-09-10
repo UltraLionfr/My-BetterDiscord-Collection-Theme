@@ -72,6 +72,18 @@
 .helpText-h3r3wC {font-size: 15px;line-height: 13px;margin: 15px 0;color: white;}
 .avatarUploader-3XDtmn .sizeInfo-SKMPPw {display: block;font-size: 15px;color: #ffffff;}
 .theme-dark .input-UJ9Tr3 {color: #e3e5e8;border-bottom-color: white;}
+  .itemContainer-1LSFks {
+    background-color: transparent;
+}
+.colorHeaderSecondary-3Sp3Ft,.colorHeaderPrimary-26Jzh-{
+  color: white;
+}
+.input-cIJ7To {
+  color: white;
+}
+.theme-dark .container-1CE3eW {
+  background-image: url("https://i.imgur.com/b7XZsIU.jpg");
+}
 /*End Create or join server*/
 /*pageWrapper*/
 .theme-dark .pageWrapper-1PgVDX {background-color: transparent;}
