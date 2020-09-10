@@ -38,3 +38,16 @@
     --rs-invisible-color: #747f8d;  /* color for invisible status - Note this will only show for your own invisibility */
   }
   /*End radialstatuts*/
+
+.theme-dark .itemContainer-1LSFks {
+    background-color: transparent;
+}
+.theme-dark .colorHeaderSecondary-3Sp3Ft,.colorHeaderPrimary-26Jzh-{
+  color: white;
+}
+.theme-dark .input-cIJ7To {
+  color: white;
+}
+.theme-dark .container-1CE3eW {
+  background-image: url("https://i.imgur.com/b7XZsIU.jpg");
+}
