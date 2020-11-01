@@ -1,3 +1,22 @@
+.theme-dark .itemContainer-1LSFks {
+    background-color: transparent;
+}
+.theme-dark .colorHeaderSecondary-3Sp3Ft,.colorHeaderPrimary-26Jzh-{
+  color: white;
+}
+.theme-dark .input-cIJ7To {
+  color: #f04747;
+}
+.input--jS-j2 {
+	background-color: transparent;
+}
+.theme-dark .container-1CE3eW {
+  background-image: url("https://i.imgur.com/b7XZsIU.jpg");
+}
+.container-UC8Ug1 {
+	background-color: transparent;
+}
+
 /*discord logo*/
 #app-mount .listItemWrapper-3X98Pc .childWrapper-anI2G9 {background: url("https://i.imgur.com/ucqxw68.png") center/cover no-repeat;}
 .homeIcon-tEMBK1 {display: none;}
@@ -63,8 +82,8 @@
 .theme-dark .cancelButton-RGXhAE  {font-family: 'Orbitron', sans-serif;;color: rgb(255, 255, 255);}
 .theme-dark .contents-18-Yxp {font-family: 'Orbitron', sans-serif;;color: white;}
 .theme-dark .size-30cdTn {background-image: url("https://i.imgur.com/b7XZsIU.jpg");border: none;}
-.theme-dark .footer-2gL1pp {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
-.theme-dark .content-1LAB8Z {background-image: url("https://i.imgur.com/b7XZsIU.jpg");}
+.theme-dark .footer-2gL1pp {background-color: transparent;}
+.theme-dark .content-1LAB8Z {background-color: transparent;}
 .theme-dark .action-1lSjCi {background-color: transparent;}
 .theme-dark .colorStandard-2KCXvj {color: rgb(255, 255, 255);}
 .wrapper-2ZbzR9.theme-light {background-image: url("https://wallpaperset.com/w/full/8/f/e/36465.jpg");}
@@ -76,9 +95,6 @@
     background-color: transparent;
 }
 .theme-dark .colorHeaderSecondary-3Sp3Ft,.colorHeaderPrimary-26Jzh-{
-  color: white;
-}
-.theme-dark .input-cIJ7To {
   color: white;
 }
 .theme-dark .container-1CE3eW {
@@ -178,7 +194,7 @@
 .colorPrimary-3hws2f {color: white;}
 /*End Nitro*/
 .emptyChannelIcon-cc932w { background-color: transparent;}
-.unread-1xRYoj {background-color: #f04747;}
+.unread-1xRYoj {background-color: #f04747;} /*New Messages*/
 .interactive {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
 .interactive:hover {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
 
@@ -188,4 +204,18 @@
 .iconBackgroundTierTwo-3bCmdc {color: #ff73fa;}
 .disableColor-MwOAZf, .iconBackgroundTierNone-3MPhMJ, .iconBackgroundTierOne-2LhaMB, .iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {color: #ff73fa;}
 .modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {color: white;}
-.theme-dark .header-1TKi98 {background-image: url("https://cdn.lowgif.com/medium/001d1c51ecd8992a-index-of-gnutux-sparkle.gif");}
+.theme-dark .header-1TKi98 { background-color: transparent;}
+.sampleLink-2NLvZg {color: #f04747;}
+
+.isUnread-3Ef-o9 {
+    border-color: #f04747;
+}
+
+.unreadPill-2HyYtt {
+    background-color: #f04747;
+}
+
+.unreadPillCapStroke-7rkHbg {
+    color: #f04747;
+    fill: #f04747;
+}
