@@ -3021,34 +3021,7 @@ code {
   content: "Zephir";
 }
 /* MENTIONS */
-.topic-TCb_qw .wrapper-3WhCwL,
-.topic-TCb_qw .mention,
-.markup-2BOw-j .wrapper-3WhCwL,
-.markup-2BOw-j .mention {
-  padding: 0 4px;
-  border-radius: 5px;
-  line-height: 22px;
-  font-weight: 500;
-  white-space: nowrap;
-  transition: all 0.15s ease-in-out;
-  cursor: pointer;
-}
-.topic-TCb_qw .wrapper-3WhCwL,
-.markup-2BOw-j .wrapper-3WhCwL {
-  background-color: rgba(255, 255, 255, 0.04);
-  color: rgba(255, 255, 255, 0.7);
-}
-.topic-TCb_qw .wrapper-3WhCwL:hover,
-.markup-2BOw-j .wrapper-3WhCwL:hover {
-  background-color: var(--main-color);
-  color: #fff;
-}
-.topic-TCb_qw strong > .wrapper-3WhCwL,
-.topic-TCb_qw strong > .mention,
-.markup-2BOw-j strong > .wrapper-3WhCwL,
-.markup-2BOw-j strong > .mention {
-  font-weight: 600;
-}
+
 
 .mentioned-xhSam7 {
   background-color: rgba(255, 255, 255, 0.05);
