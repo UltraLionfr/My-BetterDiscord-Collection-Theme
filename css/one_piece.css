@@ -272,7 +272,7 @@ textarea,
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v1";
+  content: "v1.0";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -9323,4 +9323,6 @@ textarea::-webkit-scrollbar {
   background-color: var(--backdrop-overlay);
 }
 
-.layer-3QrUeG .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ {color: white;}
+.layer-3QrUeG .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ {
+	color: white;
+}
