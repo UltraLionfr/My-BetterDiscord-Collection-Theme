@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root {
-  --main-color: #2780e6;
+  --main-color: #2780e6;f
   --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
@@ -8419,19 +8419,6 @@ textarea::-webkit-scrollbar {
   text-decoration: none !important;
 }
 
-/* BD SETTINGS SIDEBAR ICONS */
-.sidebar-CFHs9e .bd-settings-tab.item-PXvHYJ:before {
-  background-image: url(https://clearvision.gitlab.io/icons/betterdiscord.svg);
-}
-.sidebar-CFHs9e .bd-customcss-tab.item-PXvHYJ:before {
-  background-image: url(https://clearvision.gitlab.io/icons/code_braces.svg);
-}
-.sidebar-CFHs9e .bd-plugins-tab.item-PXvHYJ:before {
-  background-image: url(https://clearvision.gitlab.io/icons/puzzle.svg);
-}
-.sidebar-CFHs9e .bd-themes-tab.item-PXvHYJ:before {
-  background-image: url(https://clearvision.gitlab.io/icons/palette.svg);
-}
 
 #bda-qem {
   background-color: rgba(0, 0, 0, 0.5);
