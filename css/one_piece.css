@@ -9321,3 +9321,24 @@ textarea::-webkit-scrollbar {
   box-shadow: 0 0 2px white;
   border: 0px solid --main-color;
 }
+
+/*clickable button infinite*/
+@keyframes wiggle {
+  0% {-webkit-transform: rotate(5deg);}
+  25% {-webkit-transform: rotate(-5deg);}
+  50% {-webkit-transform: rotate(5deg);}
+  75% {-webkit-transform: rotate(-5deg);}
+  100% {-webkit-transform: rotate(5deg);}
+}
+.clickable-3rdHwn:hover .icon-22AiRD {animation: wiggle .8s infinite;}
+/*End clickable button infinite*/
+/*Search option*/
+.searchBar-3dMhjb, .iconContainer-O4O2CN {transition: 300ms;}
+.search-2oPWTC:not(.open-6_Y_aH) > .searchBar-3dMhjb {width: 24px;height: 24px;background: transparent;cursor: pointer;}
+.search-2oPWTC:not(.open-6_Y_aH) > .searchBar-3dMhjb:hover .icon-3cZ1F_ {color: var(--interactive-hover)}
+.search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN {width: 24px; height: 24px;}
+.search-2oPWTC:not(.open-6_Y_aH) .icon-3cZ1F_ {color: var(--interactive-normal); cursor: pointer;}
+
+#MemberCount {
+  background: transparent!important;
+}
