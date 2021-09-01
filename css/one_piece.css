@@ -3,8 +3,8 @@
 :root {
   --main-color: #6fb6d2;
   --hover-color: #2780e6;
-  --success-color: #green;
-  --danger-color: #red;
+  --success-color: green;
+  --danger-color: red;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
