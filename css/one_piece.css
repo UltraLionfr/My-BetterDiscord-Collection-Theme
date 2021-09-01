@@ -9342,3 +9342,36 @@ textarea::-webkit-scrollbar {
 #MemberCount {
   background: transparent!important;
 }
+
+/*-------Blur spoiler-------*/
+/*blurs spoiler text instead of having a black bar over it*/
+.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9,
+.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9:hover,
+.contents-2mQqc9 .spoilerText-3p6IlD {
+    background: rgb(130, 130, 130, 0.1);
+    /*adds minor grey-ish filter to differentiate spoilted text from normal text*/
+    border-radius: 7px;
+    /*adds rounded edges for the filter described above*/
+}
+.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9 > .inlineContent-3ZjPuv {
+    filter: blur(3px);
+    /*adds blur filter when text is left alone*/
+    opacity: 1;
+    /*makes blurred text fully opaque*/
+}
+.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9:hover > .inlineContent-3ZjPuv {
+    filter: none;
+    /*removes blur filter on hover*/
+    opacity: 1;
+    /*makes text opacity look like normal, non-spoiled text on hover*/
+}
+/*--------------------------*/
+
+.colorHeaderPrimary-26Jzh-,
+.colorHeaderPrimary-26Jzh- {
+    filter: blur(5px);
+}
+.colorHeaderPrimary-26Jzh-:hover,
+.colorHeaderPrimary-26Jzh-:hover {
+    filter: blur(0);
+}
