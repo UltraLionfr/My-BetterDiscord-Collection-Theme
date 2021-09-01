@@ -1,15 +1,15 @@
 @charset "UTF-8";
 
 :root {
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
-  --success-color: #43b581;
-  --danger-color: #982929;
+  --main-color: #6fb6d2;
+  --hover-color: #2780e6;
+  --success-color: #green;
+  --danger-color: #red;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
   --channel-text-selected: #fff;
-  --url-color: var(--main-color);
+  --url-color: #9197a1;
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
