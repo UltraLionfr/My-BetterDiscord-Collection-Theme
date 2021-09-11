@@ -80,7 +80,7 @@
 .iconWrapper-2OrFZ1:hover {transition: all .3s ease-in-out;transform: scale(1.2);}
 .typeWindows-1za-n7 {background-image: url("https://i.imgur.com/b7XZsIU.jpg");margin-top: 0px;padding: 3px; opacity: 0.5;}
 .wordmark-2iDDfm > svg > path{display: none !important;}
-.wordmark-2iDDfm::before {font-family: 'Orbitron', sans-serif;;content:'DISCORD | NASA by UltraLion';font-size: 16px;Font-Weight: 600;position:fixed;color: #f04747;}
+.wordmark-2iDDfm::before {font-family: 'Orbitron', sans-serif;;content:'';font-size: 16px;Font-Weight: 600;position:fixed;color: #f04747;}
 .theme-dark .applicationStore-1pNvnv {background-color: transparent;}
 .theme-dark .container-1D34oG  {background-color: transparent;}
 .theme-dark .nowPlayingColumn-2sl4cE  {background-color: transparent;}
